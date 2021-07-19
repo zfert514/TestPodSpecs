@@ -26,7 +26,7 @@ s.source = { :git => "https://github.com/zfert514/TestFramework.git",
 # 7
 #s.framework = 'AWSPinpoint'
 #s.framework = 'AWSMobileClient'
-#s.framework = 'Amplify'
+s.framework = 'Foundation'
 #s.framework = 'AmplifyPlugins/AWSDataStorePlugin'
 #s.framework = 'AmplifyPlugins/AWSAPIPlugin'
 #s.framework = 'AWSPluginsCore'
